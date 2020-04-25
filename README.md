@@ -41,14 +41,13 @@
 
 业绩: 出于兴趣，提编程能，同时熟悉vimscript脚本语
 
-
 # 开源项目和作品
 
 ## 设计作品
 
- - [产品卡片](https://heguohui2018.github.io/web-Demo/产品卡片/index.html)
- - [图文切换按钮效果](https://heguohui2018.github.io/web-Demo/图文切换按钮效果/index.html)
- - [半透明表单](https://heguohui2018.github.io/web-Demo/半透明登录表单/index.html)
+- [产品卡片](https://heguohui2018.github.io/web-Demo/产品卡片/index.html)
+- [图文切换按钮效果](https://heguohui2018.github.io/web-Demo/图文切换按钮效果/index.html)
+- [半透明表单](https://heguohui2018.github.io/web-Demo/半透明登录表单/index.html)
 
 ## ui网页设计作品
 
@@ -56,15 +55,15 @@
 
 ### 世纪家居商贸
 
-- ![家具网](../Design-is-coding/作品图片/家具网.png)
+- ![家具网](作品图片/家具网.png)
 
 ### 购物车卡片
 
-- ![购物卡片](../Design-is-coding/作品图片/购物卡片.png)
+- ![购物卡片](作品图片/购物卡片.png)
 
 ### 商品海报
 
-- ![商品海报](../Design-is-coding/作品图片/商品海报.png)
+- ![商品海报](作品图片/商品海报.png)
 
 ### 使用JavaScript交互原型库绘制简单的demo
 
