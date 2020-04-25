@@ -9,10 +9,11 @@
 
  - 何国辉/男/1990 
  - 本科/资源环境与城乡规划管理 
+ - 北京城市学院 本科 资源环境与城乡规划管理
+ - 在校期间与同学合作做过一个小型商城外包项目，负责界面的ui设计和界面的开发工作，
+ - 参与学校的web开发选修课，学习html，css相关语法
  - 工作年限：4年
- - 技术博客：http://blog.github.io ( ``` 使用GitHub Host的Big较高 ```  )
- - Github：http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
-
+ - Github：https://github.com/heguohui2018
  - 期望职位：网页美工
  - 期望薪资：税前月薪3800~4500
  - 期望城市：贵阳
@@ -21,13 +22,24 @@
 
 # 工作经历
 
-## 五色金土地信息科技有限公司 （ 2012年9月 ~ 2014年9月 ）
+## 天仪测绘有限公司 （ 2016年7月 ~ 2020年4月 ）
 
-### 
+内容: 由于公司内部系统旧，需要重新设计和开发，方便公司内部职员使用，提高工作效率
+
+业绩: 保证系统的流畅运，以及bug排除
+
+## 公司内部系统ui界 ui设计师/平面设计
+
+内容:
+1，负责公司内部ui界的设计，以及一些交互效果的实现，使Pixelmator Pro如剑进图处理，使sketch软件进排版设计，
+2，使终端命令具进项代码开发，在项进中熟悉Linux操作系统。
 
 
-### GHI项目 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+3, neovim插件开发 neovim插件开发 2017/02 - 2018/07
+
+内容: neovim语法亮插件开发，由于长时间使MacOS操作系统命令工具，觉得技术社区的插件不太好用，因此自己开发了一款语法插件，方便自己书写代码，提高开发效率
+
+业绩: 出于兴趣，提编程能，同时熟悉vimscript脚本语
 
 
 # 开源项目和作品
@@ -36,7 +48,33 @@
 
  - [产品卡片](https://heguohui2018.github.io/web-Demo/产品卡片/index.html)
  - [图文切换按钮效果](https://heguohui2018.github.io/web-Demo/图文切换按钮效果/index.html)
+ - [半透明表单](https://heguohui2018.github.io/web-Demo/半透明登录表单/index.html)
 
+## ui网页设计作品
+
+个人比较懒，文本内容使用工具自动填充，在实际项目中可更换文本内容
+
+### 世纪家居商贸
+
+- ![家具网](../Design-is-coding/作品图片/家具网.png)
+
+### 购物车卡片
+
+- ![购物卡片](../Design-is-coding/作品图片/购物卡片.png)
+
+### 商品海报
+
+- ![商品海报](../Design-is-coding/作品图片/商品海报.png)
+
+### 使用JavaScript交互原型库绘制简单的demo
+
+<iframe
+    height=450
+    width=800
+    src="https://v.youku.com/v_show/id_XNDY0Nzc4NTE1Mg==.html"
+    frameborder=0
+    allowfullscreen>
+</iframe>
 
 ## 技术文章
 
@@ -50,8 +88,7 @@
 - Web开发：HTML5/Css3/javascript/jquery
 - 版本管理、git
 - 开发工具、neovim,vscode
-- 设计工具、sketch ui网页设计工具,Pixelmator Pro修图工具
-
+- 网页设计工具、sketch ui网页设计工具,Pixelmator Pro修图工具
 ---
 
 # 致谢
