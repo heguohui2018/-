@@ -68,13 +68,7 @@
 
 ### 使用JavaScript交互原型库绘制简单的demo
 
-<iframe
-    height=450
-    width=800
-    src="https://v.youku.com/v_show/id_XNDY0Nzc4NTE1Mg==.html"
-    frameborder=0
-    allowfullscreen>
-</iframe>
+- [视频连接地址](https://v.youku.com/v_show/id_XNDY0Nzc4NTE1Mg==.html)
 
 ## 技术文章
 
